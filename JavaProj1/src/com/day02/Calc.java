@@ -19,7 +19,7 @@ public class Calc {
 
 	{
 		c=b-a;
-		System.out.println("Sub is: " +c);
+		System.out.println("Subtraction result is: " +c);
 		
 	}
 	
